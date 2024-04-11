@@ -15,7 +15,7 @@ Setup\
 4. Edit WLAN window\
 &nbsp;&nbsp;&nbsp;&nbsp; Clock on Show Advanced Options to expand menu > Select Access Control and enable the Wi-Fi Calling checkbox.\
 &nbsp;&nbsp;&nbsp;&nbsp; Click the Edit button and select each profile under you created in (2) under Available Profiles and press the right arrow to place that profile into the Selected Profiles group.\
-&nbsp;&nbsp;&nbsp;&nbsp; Repeat (3) and (4) as needed if you have additional networks for which you want Wi-Fi calling enabled for (e.g. Guest).
+&nbsp;&nbsp;&nbsp;&nbsp; Repeat (3) and (4) as needed for any additional networks needing Wi-Fi calling enabled for (e.g. Guest network).
 <br>
 
 | Carrier Name               | Domain Name                                  | IP Address     |
