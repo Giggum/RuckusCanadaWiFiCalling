@@ -9,6 +9,7 @@ Create New\
 &nbsp;&nbsp;&nbsp;&nbsp; Under Evolved Packet Data Gateway (eDPG):\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Press Create New\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enter Domain Name and IP Address per below and click Save\
+<br>
 
 | Carrier Name               | Domain Name                                  | IP Address     |
 | ---------------------------| -------------------------------------------  |----------------|
