@@ -1,5 +1,5 @@
 1. Login to Unleashed:\
-&nbsp;&nbsp;&nbsp;&nbsp; Go to: Services > Wi-Fi Calling > Select Profiles tab > Press +Create to create a new profile\
+&nbsp;&nbsp;&nbsp;&nbsp; Go to: Services > Wi-Fi Calling > Select Profiles tab > Press +Create to create a new profile
 
 2. Create New window\
 &nbsp;&nbsp;&nbsp;&nbsp; General:\
@@ -8,7 +8,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; QoS Priority = Voice\
 &nbsp;&nbsp;&nbsp;&nbsp; Under Evolved Packet Data Gateway (eDPG):\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Press Create New\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enter Domain Name and IP Address per below and click Save\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enter Domain Name and IP Address per below and click Save
 <br>
 
 | Carrier Name               | Domain Name                                  | IP Address     |
