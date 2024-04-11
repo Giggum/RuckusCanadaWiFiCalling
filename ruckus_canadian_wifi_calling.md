@@ -1,7 +1,7 @@
 1. Login to Unleashed:\
 &nbsp;&nbsp;&nbsp;&nbsp; Go to: Services > Wi-Fi Calling > Select Profiles tab > Press +Create to create a new profile\
-\
-2. Create New\
+
+2. Create New window\
 &nbsp;&nbsp;&nbsp;&nbsp; General:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Name: Name your profile (e.g. Bell), create a profile for each carrier.\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Description: Wi-Fi Calling Profile\
