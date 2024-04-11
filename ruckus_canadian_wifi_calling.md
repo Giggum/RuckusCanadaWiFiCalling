@@ -7,7 +7,7 @@ Create New
  * QoS Priority = Voice\
  * Under Evolved Packet Data Gateway (eDPG) > Create New\
    * Enter Domain Name and IP Address per below and click Save\
-  
+\
 | Carrier Name               | Domain Name                                  | IP Address     |
 | ---------------------------| -------------------------------------------  |----------------|
 | Bell                       | epdg.epc.mnc610.mcc302.pub.3gppnetwork.org   | 69.158.242.2   |
