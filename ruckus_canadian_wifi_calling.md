@@ -1,5 +1,13 @@
-Unleashed: Services > Wi-Fi Calling > Profiles > + Create <add per below>
+Unleashed: 
+Go to Services > Wi-Fi Calling > Select Profiles tab > +Create
+Create New
+  Name: Name your profile (e.g. Bell), create a profile for each carrier.
+  Description: Wi-Fi Calling Profile
+  QoS Priority = Voice
+  Under Evolved Packet Data Gateway (eDPG) > Create New
+    Enter Domain Name and IP Address per below and click Save
 
+  
 | Carrier Name               | Domain Name                                  | IP Address     |
 | ---------------------------| -------------------------------------------  |----------------|
 | Bell                       | epdg.epc.mnc610.mcc302.pub.3gppnetwork.org   | 69.158.242.2   |
