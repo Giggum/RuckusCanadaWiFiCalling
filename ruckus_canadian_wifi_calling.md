@@ -11,7 +11,7 @@ Setup\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Press Create New\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enter Domain Name and IP Address per below and click Save
 
-3. Leave Admin & Services and navigate to Wi-Fi Networks and select the network you want to enable Wi-Fi calling for. Press the Edit above to configura that WLAN.\
+3. Leave Admin & Services and navigate to Wi-Fi Networks and select the network you want to enable Wi-Fi calling for. Press the Edit above to configura that WLAN.
 4. Edit WLAN window\
 &nbsp;&nbsp;&nbsp;&nbsp; Clock on Show Advanced Options to expand menu > Select Access Control and enable the Wi-Fi Calling checkbox.\
 &nbsp;&nbsp;&nbsp;&nbsp; Click the Edit button and select each profile under you created in (2) under Available Profiles and press the right arrow to place that profile into the Selected Profiles group.\
