@@ -1,4 +1,4 @@
-Setup\
+Setup
 1. Login to Unleashed:\
 &nbsp;&nbsp;&nbsp;&nbsp; Go to: Admin & Services > Services > Wi-Fi Calling > Select Profiles tab > Press +Create to create a new profile
 
