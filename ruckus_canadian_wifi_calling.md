@@ -2,11 +2,11 @@ Unleashed:\
 Go to: Services > Wi-Fi Calling > Select Profiles tab > + Create\
 \
 Create New
- &nbsp;&nbsp;&nbsp;&nbsp Name: Name your profile (e.g. Bell), create a profile for each carrier.\
- &nbsp;&nbsp;&nbsp;&nbsp Description: Wi-Fi Calling Profile\
- &nbsp;&nbsp;&nbsp;&nbsp QoS Priority = Voice\
- &nbsp;&nbsp;&nbsp;&nbsp Under Evolved Packet Data Gateway (eDPG) > Create New\
- &nbsp;&nbsp;&nbsp;&nbsp Enter Domain Name and IP Address per below and click Save\
+ &nbsp;&nbsp;&nbsp;&nbsp; Name: Name your profile (e.g. Bell), create a profile for each carrier.\
+ &nbsp;&nbsp;&nbsp;&nbsp; Description: Wi-Fi Calling Profile\
+ &nbsp;&nbsp;&nbsp;&nbsp; QoS Priority = Voice\
+ &nbsp;&nbsp;&nbsp;&nbsp; Under Evolved Packet Data Gateway (eDPG) > Create New\
+ &nbsp;&nbsp;&nbsp;&nbsp; Enter Domain Name and IP Address per below and click Save\
 
 | Carrier Name               | Domain Name                                  | IP Address     |
 | ---------------------------| -------------------------------------------  |----------------|
