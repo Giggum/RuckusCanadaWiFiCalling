@@ -1,5 +1,5 @@
 1. Login to Unleashed:\
-&nbsp;&nbsp;&nbsp;&nbsp; Go to: Services > Wi-Fi Calling > Select Profiles tab > Press +Create (step 2)\
+&nbsp;&nbsp;&nbsp;&nbsp; Go to: Services > Wi-Fi Calling > Select Profiles tab > Press +Create to Create New profile\
 \
 2. Create New\
 &nbsp;&nbsp;&nbsp;&nbsp; General:\
