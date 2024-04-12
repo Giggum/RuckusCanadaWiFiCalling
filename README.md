@@ -6,6 +6,7 @@
    * Name: Name your profile (e.g. Bell), create a profile for each carrier.
    * Description: Wi-Fi Calling Profile  
    * QoS Priority = Voice\
+
 Under Evolved Packet Data Gateway (eDPG):
    * Press Create New
    * Enter Domain Name and IP Address show in the Canadian WiFi Calling Table and click Save
