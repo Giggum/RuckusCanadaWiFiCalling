@@ -1,4 +1,4 @@
-** CANADIAN WIFI CALLING CARRIER SETTINGS **
+**CANADIAN WIFI CALLING CARRIER SETTINGS**
 
 | Carrier Name               | Domain Name                                  | IP Address     |
 | ---------------------------| -------------------------------------------  |----------------|
