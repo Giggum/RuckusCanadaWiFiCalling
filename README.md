@@ -2,7 +2,6 @@
 1. Login to Unleashed
 2. Go to: Admin & Services > Services > Wi-Fi Calling > Select Profiles tab > Press +Create to create a new profile.
 3. Within the Create New window navigate to the General section and configure per below.\
-   
    * Name: Name your profile (e.g. Bell), create a profile for each carrier.
    * Description: Wi-Fi Calling Profile  
    * QoS Priority = Voice  
