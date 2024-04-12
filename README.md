@@ -1,13 +1,13 @@
 **SETUP PROCEDURE FOR RUCKUS UNLEASHED**
 1. Login to Unleashed
 2. Go to: Admin & Services > Services > Wi-Fi Calling > Select Profiles tab > Press +Create to create a new profile.
-3. Within the Create New window navigate to the General section and configure per below. 
-        General:  
+3. Within the Create New window navigate to the General section and configure per below.\ 
+        General:\  
         - Name: Name your profile (e.g. Bell), create a profile for each carrier.  
         - Description: Wi-Fi Calling Profile  
         - QoS Priority = Voice  
-        Under Evolved Packet Data Gateway (eDPG):  
-        - Press Create New
+        Under Evolved Packet Data Gateway (eDPG):\  
+        - Press Create New\
         - Enter Domain Name and IP Address show in the Canadian WiFi Calling Table and click Save
     
 5. Leave the Admin & Services section and navigate to Wi-Fi Networks and select the network you want to enable Wi-Fi calling for. Press the Edit above to configure that WLAN.
